@@ -1,0 +1,15 @@
+C:\Users\gugab\desafio-target\desafio1\bin\Debug\net8.0\CalculoComissao.exe
+C:\Users\gugab\desafio-target\desafio1\bin\Debug\net8.0\CalculoComissao.deps.json
+C:\Users\gugab\desafio-target\desafio1\bin\Debug\net8.0\CalculoComissao.runtimeconfig.json
+C:\Users\gugab\desafio-target\desafio1\bin\Debug\net8.0\CalculoComissao.dll
+C:\Users\gugab\desafio-target\desafio1\bin\Debug\net8.0\CalculoComissao.pdb
+C:\Users\gugab\desafio-target\desafio1\obj\Debug\net8.0\CalculoComissao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gugab\desafio-target\desafio1\obj\Debug\net8.0\CalculoComissao.AssemblyInfoInputs.cache
+C:\Users\gugab\desafio-target\desafio1\obj\Debug\net8.0\CalculoComissao.AssemblyInfo.cs
+C:\Users\gugab\desafio-target\desafio1\obj\Debug\net8.0\CalculoComissao.csproj.CoreCompileInputs.cache
+C:\Users\gugab\desafio-target\desafio1\obj\Debug\net8.0\CalculoComissao.sourcelink.json
+C:\Users\gugab\desafio-target\desafio1\obj\Debug\net8.0\CalculoComissao.dll
+C:\Users\gugab\desafio-target\desafio1\obj\Debug\net8.0\refint\CalculoComissao.dll
+C:\Users\gugab\desafio-target\desafio1\obj\Debug\net8.0\CalculoComissao.pdb
+C:\Users\gugab\desafio-target\desafio1\obj\Debug\net8.0\CalculoComissao.genruntimeconfig.cache
+C:\Users\gugab\desafio-target\desafio1\obj\Debug\net8.0\ref\CalculoComissao.dll

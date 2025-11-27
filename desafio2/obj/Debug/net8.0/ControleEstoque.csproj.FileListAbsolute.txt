@@ -1,0 +1,15 @@
+C:\Users\gugab\desafio-target\desafio2\bin\Debug\net8.0\ControleEstoque.exe
+C:\Users\gugab\desafio-target\desafio2\bin\Debug\net8.0\ControleEstoque.deps.json
+C:\Users\gugab\desafio-target\desafio2\bin\Debug\net8.0\ControleEstoque.runtimeconfig.json
+C:\Users\gugab\desafio-target\desafio2\bin\Debug\net8.0\ControleEstoque.dll
+C:\Users\gugab\desafio-target\desafio2\bin\Debug\net8.0\ControleEstoque.pdb
+C:\Users\gugab\desafio-target\desafio2\obj\Debug\net8.0\ControleEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gugab\desafio-target\desafio2\obj\Debug\net8.0\ControleEstoque.AssemblyInfoInputs.cache
+C:\Users\gugab\desafio-target\desafio2\obj\Debug\net8.0\ControleEstoque.AssemblyInfo.cs
+C:\Users\gugab\desafio-target\desafio2\obj\Debug\net8.0\ControleEstoque.csproj.CoreCompileInputs.cache
+C:\Users\gugab\desafio-target\desafio2\obj\Debug\net8.0\ControleEstoque.sourcelink.json
+C:\Users\gugab\desafio-target\desafio2\obj\Debug\net8.0\ControleEstoque.dll
+C:\Users\gugab\desafio-target\desafio2\obj\Debug\net8.0\refint\ControleEstoque.dll
+C:\Users\gugab\desafio-target\desafio2\obj\Debug\net8.0\ControleEstoque.pdb
+C:\Users\gugab\desafio-target\desafio2\obj\Debug\net8.0\ControleEstoque.genruntimeconfig.cache
+C:\Users\gugab\desafio-target\desafio2\obj\Debug\net8.0\ref\ControleEstoque.dll

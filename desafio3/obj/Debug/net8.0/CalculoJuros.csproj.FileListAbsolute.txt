@@ -1,0 +1,15 @@
+C:\Users\gugab\desafio-target\desafio3\bin\Debug\net8.0\CalculoJuros.exe
+C:\Users\gugab\desafio-target\desafio3\bin\Debug\net8.0\CalculoJuros.deps.json
+C:\Users\gugab\desafio-target\desafio3\bin\Debug\net8.0\CalculoJuros.runtimeconfig.json
+C:\Users\gugab\desafio-target\desafio3\bin\Debug\net8.0\CalculoJuros.dll
+C:\Users\gugab\desafio-target\desafio3\bin\Debug\net8.0\CalculoJuros.pdb
+C:\Users\gugab\desafio-target\desafio3\obj\Debug\net8.0\CalculoJuros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gugab\desafio-target\desafio3\obj\Debug\net8.0\CalculoJuros.AssemblyInfoInputs.cache
+C:\Users\gugab\desafio-target\desafio3\obj\Debug\net8.0\CalculoJuros.AssemblyInfo.cs
+C:\Users\gugab\desafio-target\desafio3\obj\Debug\net8.0\CalculoJuros.csproj.CoreCompileInputs.cache
+C:\Users\gugab\desafio-target\desafio3\obj\Debug\net8.0\CalculoJuros.sourcelink.json
+C:\Users\gugab\desafio-target\desafio3\obj\Debug\net8.0\CalculoJuros.dll
+C:\Users\gugab\desafio-target\desafio3\obj\Debug\net8.0\refint\CalculoJuros.dll
+C:\Users\gugab\desafio-target\desafio3\obj\Debug\net8.0\CalculoJuros.pdb
+C:\Users\gugab\desafio-target\desafio3\obj\Debug\net8.0\CalculoJuros.genruntimeconfig.cache
+C:\Users\gugab\desafio-target\desafio3\obj\Debug\net8.0\ref\CalculoJuros.dll
